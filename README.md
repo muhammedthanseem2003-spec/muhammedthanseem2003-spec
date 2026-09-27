@@ -1,16 +1,17 @@
-no## Hi there 👋
+### Hi, I'm Thanseem 👋 - Ecommerce Marketing Specialist in Calicut
 
-<!--
-**muhammedthanseem2003-spec/muhammedthanseem2003-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
+I help Shopify & D2C brands scale with Google Ads & SEO.
 
-Here are some ideas to get you started:
+🚀 **My Portfolio:** https://thanseem.com
+📍 Calicut, Kerala | Working Worldwide
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun ddfact: ...
--->
+**What I do:**
+✅ Shopify Optimization & CRO
+✅ Google Ads - High ROAS
+✅ Ecommerce SEO
+✅ 0 to 3X Growth Strategy
+
+Let's scale your store?
+👉 Visit: [thanseem.com](https://thanseem.com)
+
+#shopify #calicut #ecommercemarketing
